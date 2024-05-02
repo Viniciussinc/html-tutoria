@@ -1,0 +1,113 @@
+/* Reset de estilos para zerar as configurações padrão dos navegadores */
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #c3f1ffbe; /* Cor de fundo para toda a página */
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: #333;
+    color: #0a0909;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+/* Estilos para o conteúdo */
+.content {
+    background-color: #ffffff;
+    padding: 50px;
+    margin: 30px ;
+    
+}
+
+/* Estilos para os parágrafos */
+p {
+    color: #1f1e1e;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Estilos para os códigos */
+code {
+    font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+    background-color: #ffffff;
+    padding: 0;
+    border:0;
+    color: red;
+}
+
+/* Estilos para os títulos de seção */
+h1, h2 {
+    color: #000000;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Estilos para o rodapé */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+hr{opacity: 0,25
+    ;}
+.allign{text-align: center;
+justify-content: center;}
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    color: #070101;
+  }
+  
+  td, th {
+    border: 1px solid #070101;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  h3,li,ul,h4{
+    color: #000000;
+  }
+  .exemplo{
+    border-color: green;
+    color: #000000;
+    border-width:1px;border-style:solid;padding:5px;}
+
+
+
+    .city {
+        background-color: tomato;
+        color: white;
+        border: 2px solid black;
+        margin: 20px;
+        padding: 20px;
+      }
+      #myHeader {
+        background-color: lightblue;
+        color: black;
+        padding: 40px;
+        text-align: center;}
+  li{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  #Roberto {
+    width: 350px;
+    height: 70px;
+    padding: 10px;
+    border: 1px solid #aaaaaa;
+  }
