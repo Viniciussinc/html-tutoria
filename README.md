@@ -15,11 +15,11 @@ O site está hospedado no GitHub Pages e pode ser acessado no seguinte link: htt
 ## Como Contribuir
 
 Se você quiser contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias, correções ou novos conteúdos. Sua contribuição é muito bem-vinda!
-## Codigo Fonte:''''
+## Codigo Fonte:
 
 
 
-<!DOCTYPE html>
+'''''<!DOCTYPE html>
 <html lang="en">
 
 <head>
